@@ -132,6 +132,7 @@
     justify-content: center;
     padding-top:2%;
     border:4px solid #dfe1e4;
+    letter-spacing: .1rem;
 }
 
 
@@ -231,7 +232,7 @@
       left:.5rem;
       top:1rem;
       transition: opacity .5s;
-      padding-top: .1em;
+      padding-top: .1rem;
   }
 
   .btn-skills{
@@ -240,7 +241,7 @@
     left:.5rem;
     top:4.2rem;
     transition: opacity 1.2s;
-    padding-top: .1em;
+    padding-top: .1rem;
   }
 
   .btn-education{
@@ -249,7 +250,7 @@
     left:.5rem;
     top:7.4rem;
     transition: opacity 1.5s;
-    padding-top: .1em;
+    padding-top: .1rem;
   }
 
   .btn-contact{
@@ -258,7 +259,7 @@
     left: .5rem;
     top:10.6rem;
     transition: opacity 2s;
-    padding-top: .1em;
+    padding-top: .1rem;
   }
 
   .scroll.show{
