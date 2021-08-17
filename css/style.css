@@ -231,7 +231,7 @@
       left:.5rem;
       top:1rem;
       transition: opacity .5s;
-      padding-top: .1rem;
+      padding-top: .1em;
   }
 
   .btn-skills{
@@ -240,7 +240,7 @@
     left:.5rem;
     top:4.2rem;
     transition: opacity 1.2s;
-    padding-top: .1rem;
+    padding-top: .1em;
   }
 
   .btn-education{
@@ -249,7 +249,7 @@
     left:.5rem;
     top:7.4rem;
     transition: opacity 1.5s;
-    padding-top: .1rem;
+    padding-top: .1em;
   }
 
   .btn-contact{
@@ -258,7 +258,7 @@
     left: .5rem;
     top:10.6rem;
     transition: opacity 2s;
-    padding-top: .1rem;
+    padding-top: .1em;
   }
 
   .scroll.show{
